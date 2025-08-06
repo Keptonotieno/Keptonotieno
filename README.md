@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/kepton otieno" target="blank"><img src="https://img.shields.io/twitter/follow/kepton otieno?logo=twitter&style=for-the-badge" alt="kepton otieno" /></a> </p>
 
-- 🔭 I’m currently working on **Hotel Restaurant website**
+- 🔭 I’m currently working on **modern and lucretive website**
 
-- 🌱 I’m currently learning **bootstrap, reactjs, angular,Tailwindd**
+- 🌱 I’m currently learning **bootstrap, reactjs, angular,Tailwind**
 
 - 👯 I’m looking to collaborate on **website developer**
 
